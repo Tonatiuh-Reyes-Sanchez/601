@@ -15,3 +15,5 @@ Nombre: Tonatiuh de Jesus Reyes Sanchez
 5.-TRIFIV_V4_PT1.java
 
 6.- TRIFIV_V4_PT2.java
+
+7.- juego.fla
